@@ -548,7 +548,7 @@ Developed using
 
 # 📄 License
 
-This project is developed for educational and business management purposes.
+This project is developed for professional business management purposes.
 
 You are free to modify, extend, and customize it according to your business requirements.
 
